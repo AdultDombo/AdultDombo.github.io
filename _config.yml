@@ -3,9 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            Adult Dumbo
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      최준영
+#description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://AdultDombo.github.io
 baseurl:          ''
                   #'/hydeout' - baseurl ''로 변경 하면 기본 url이 AdultDombo.github.io가 됨 /hydeout하면 AdultDombo.github.io/hydeout 가 기본 url
